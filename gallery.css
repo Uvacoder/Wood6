@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: url("./img/woodgrain.jpg");
+    background-size: cover;
+    background-position: center 45%;
+    height: auto;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-weight: bold;
+  font-size: 5rem;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.jumbotron p {
+  /* font-weight: bold; */
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+img.card-img-top {
+    float:left;
+    position: relative;
+    width: 50%;
+    padding-bottom : 50%; /* = width for a 1:1 aspect ratio */
+    margin:1.66%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* max-height: 400px;
+    max-width: 400px;
+    overflow: hidden;
+    display: block; */
+}
+
+
+
+
+
+
